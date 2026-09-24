@@ -4,6 +4,7 @@
     {
         public RoomRecord(string name, int roomId)
         {
+            // Changes Sprint 1 -- I want to create rooms for categorizing conversations -- Mussie
             Name = name;
             RoomId1 = roomId;
         }
